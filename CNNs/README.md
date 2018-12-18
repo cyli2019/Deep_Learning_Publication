@@ -32,7 +32,7 @@
 [fractalnets]: https://arxiv.org/pdf/1605.07648.pdf  
 [senets]: https://arxiv.org/pdf/1709.01507.pdf  
 [mobilenets]: https://arxiv.org/pdf/1704.04861.pdf  
-
+  
 
 (TO BE IMPLEMENTED)  
 
