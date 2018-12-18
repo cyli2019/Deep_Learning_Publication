@@ -1,5 +1,3 @@
-[//]: # (Image References)
-
 # Publications on Convolutional Neural Networks
 
 *Must reading: [Introduction to Convolutional Neural Networks][intro] - Jiaxin Wu*
