@@ -2,7 +2,7 @@
 
 # Publications on Convolutional Neural Networks
 
-Must reading: [Introduction to Convolutional Neural Networks][intro] - Jiaxin Wu
+*Must reading: [Introduction to Convolutional Neural Networks][intro] - Jiaxin Wu*
 
 ## Index
 
