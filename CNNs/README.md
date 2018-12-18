@@ -47,7 +47,7 @@
 - Multi-GPU implementation of a CNN, resulting on: 
   - Higher accuracy
   - Lower training time
-- Introduce the Dropout strategy ![dropoutpic]
+- Introduce the Dropout strategy ![dropoutpic][dropoutpic]
 - Demostrated big improvement caused by Rectified Linear Units (ReLU)
 
 
