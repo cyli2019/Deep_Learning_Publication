@@ -24,7 +24,7 @@ There should be brief summaries of each of the papers so we could quickly rememb
 - 1.	Generalization gap in large batch training of neural networks
  
 
-### [Convolutional Neural Networks - CNNs]
+### [Convolutional Neural Networks - CNNs][cnns]
 
 *There is already brief summaries for some of those on [this medium post][medium]*
 
@@ -38,7 +38,10 @@ There should be brief summaries of each of the papers so we could quickly rememb
 - 8: [SENets][senets] — Hu — 2018 
 - 9: [MobileNets][mobilenets] — Howard — 2016 
 
+
 [medium]: https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178
+[cnns]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs
+
 [lenet]: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
 [alexnet]: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 [googlenet]: https://arxiv.org/pdf/1409.4842.pdf
