@@ -39,7 +39,9 @@
 [generaliz]: https://arxiv.org/pdf/1705.08741.pdf
 
 
-## 1.1 Understanding the difficulty of training deep feedforward neural networks  
+## 1.1 Understanding the difficulty of training deep feedforward neural networks
+*Xavier Glorot - Yoshua Bengio*  
+
 #### What problems are solved?
 - Difficulty on training deep networks - Converge
 - Understand the effect of different activation function: Sigmoid and TanH
