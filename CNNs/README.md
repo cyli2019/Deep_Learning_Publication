@@ -47,7 +47,8 @@
 - Multi-GPU implementation of a CNN, resulting on: 
   - Higher accuracy
   - Lower training time
-- Introduce the Dropout strategy ![dropoutpic][dropoutpic]
+- Introduce the Dropout strategy 
+![dropoutpic][dropoutpic]
 - Demostrated big improvement caused by Rectified Linear Units (ReLU)
 
 
@@ -71,7 +72,7 @@
 
 [//]: # (AlexNet Links)  
 [alexnetpic]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs/images/alexnet/architecture.png?raw=true
-![dropoutpic]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs/images/alexnet/dropout.png?raw=true 
+[dropoutpic]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs/images/alexnet/dropout.png?raw=true 
 
 
 [//]: # (GoogleNet Links)   
