@@ -5,7 +5,7 @@ There should be brief summaries of each of the papers so we could quickly rememb
 
 ## Index
 
-### General Deep Learning Concepts    
+### [General Deep Learning Concepts][general_DL]
 
 #### Training Dynamics of Neural Networks
 
@@ -40,6 +40,7 @@ There should be brief summaries of each of the papers so we could quickly rememb
 
 
 [medium]: https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178
+[general_dl]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/tree/master/General_DL
 [cnns]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs
 
 [lenet]: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
