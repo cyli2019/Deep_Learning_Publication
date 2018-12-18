@@ -24,6 +24,10 @@ There should be brief summaries of each of the papers so we could quickly rememb
 #### Generalization Phenomena
 - 1:	Generalization gap in large batch training of neural networks - Train longer, generalize better - [2017][generaliz]
 
+
+---
+
+
 ### [Convolutional Neural Networks - CNNs][cnns]
 
 *There is already brief summaries for some of those on [this medium post][medium]*
