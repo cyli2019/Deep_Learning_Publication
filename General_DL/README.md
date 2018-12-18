@@ -19,7 +19,7 @@
 ### 3 - Generalization Phenomena
 - 3.1:	Generalization gap in large batch training of neural networks - Train longer, generalize better - [2017][generaliz]
 
-
+---
 
 [//]: # (General Links)
 [medium]: https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178
