@@ -58,8 +58,9 @@
 
 ... 
 
+---
 
-## 2.4. Batch Normalization - Accelerating Deep Network Training by Reducing Internal Covariate Shift
+## 2.4. Batch Normalization - Accelerating Deep Network Training by Reducing ICS
 *Sergey Ioffe - Christian Szegedy*  
 
 #### Summary
@@ -68,6 +69,8 @@ Furthermore, it is well known that networks converge faster if the dataset is wh
 
 #### Conclusion
 By adding these extra layers that normalize the output of each layer preceding it by using the statistics of each mini-batch, the problem of the vanishing gradient is heavily overcome, and the training is potentially faster since we are able to use higher learning rates without losing convergence properties.
+
+---
 
 ## 2.5. How does Batch Normalization help optimization?
 *Santukar, Tsipras, Ilyas*
