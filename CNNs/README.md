@@ -16,11 +16,11 @@ Must reading: [Introduction to Convolutional Neural Networks][intro] - Jiaxin Wu
 - 8: [SENets][senets] — Hu — 2018 
 - 9: [MobileNets][mobilenets] — Howard — 2016 
 
-[//]: <> General Links
+[//]: # General Links
 [intro]: https://pdfs.semanticscholar.org/450c/a19932fcef1ca6d0442cbf52fec38fb9d1e5.pdf
 [medium]: https://towardsdatascience.com/deep-convolutional-neural-networks-ccf96f830178
 
-[//]: <> Index Links
+[//]: # Index Links
 [lenet]: http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf
 [alexnet]: http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
 [googlenet]: https://arxiv.org/pdf/1409.4842.pdf
@@ -64,15 +64,15 @@ Must reading: [Introduction to Convolutional Neural Networks][intro] - Jiaxin Wu
 ...
 
 
-[//]: <> LeNet Links
+[//]: # LeNet Links
 
 
-[//]: <> AlexNet Links
+[//]: # AlexNet Links
 [alexnetpic]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs/images/alexnet/architecture.png?raw=true
 ![dropoutpic]: https://github.com/Udacity-PyTorchChallenge-Students-Group/Deep_Learning_Publication/blob/master/CNNs/images/alexnet/dropout.png?raw=true 
 
 
-[//]: <> GoogleNet Links ....
+[//]: # GoogleNet Links ....
 [googlenetpic]: https://www.researchgate.net/profile/Ronojoy_Adhikari/publication/313248299/figure/fig10/AS:457566913339400@1486103861987/The-Inception-Module-in-GoogLeNet_W840.jpg
 [nin]: https://arxiv.org/pdf/1312.4400.pdf 
 [hebbian]: https://en.wikipedia.org/wiki/Hebbian_theory
